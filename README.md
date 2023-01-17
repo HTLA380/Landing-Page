@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../desktop-preview.jpg)
+![](desktop-preview.jpg)
 
 
 ### Links
